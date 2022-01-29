@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Drupal 9 Development',
-    description: "I have been workin as a Drupal9 Developer for a multinational company and helped them training new people in this technology besides contributing to the development of Drupal itself on Drupal.org",
+    description: "I have been working as a Drupal9 Developer for a multinational company and helped them training new people in this technology besides contributing to the development of Drupal itself on Drupal.org",
     image: '/images/abs.jpg',
     tags: ['Drupal', 'PHP', 'PHPUnit', 'Acquia Cloud'],
     source: 'https://www.drupal.org/user/3686431/track',

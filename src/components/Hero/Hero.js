@@ -9,10 +9,10 @@ const Hero = (props) => (
     <Section row nopadding>
       <LeftSection>
         <SectionTitle main center>
-          Hey there,
+        Hello! 
         </SectionTitle>
         <SectionText>
-          Hello! I am Gabriel Almeida, also known as Almeida. I am an Web Full Stack Developer who also works on Scripts and some Automation.
+          I am Gabriel Almeida, also known as Almeida. I am an Web Full Stack Developer who also works on Scripts and some Automation.
         </SectionText>
         <Button onClick={(e) => {
           e.preventDefault();
