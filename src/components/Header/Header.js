@@ -5,13 +5,13 @@ import { Container, Div1, Div2, Div3, NavLink, SocialIcons } from './HeaderStyle
 
 const Header = () => (
   <Container>
-    <Div1>
+    {/* <Div1>
       <Link href="/">
         <a style={{ display: 'flex', alignItems: 'center', color: "white" }}>
-          <img src="/logo.svg" height={40} width={40} /> <span style={{ marginLeft: 10, marginTop: 7, fontSize: 20 }} >Vipul Jha</span>
+          <img src="/Almeida Dev.png" height={60} width={60} /> <span style={{ marginLeft: 10, marginTop: 7, fontSize: 20 }} >Almeida Dev</span>
         </a>
       </Link>
-    </Div1>
+    </Div1> */}
     <Div2>
       <li>
         <Link href="#projects">
@@ -28,24 +28,18 @@ const Header = () => (
           <NavLink>About</NavLink>
         </Link>
       </li>
-      <li>
+      {/* <li>
         <a href="https://blog.vipuljha.com">
           <NavLink>Blog</NavLink>
         </a>
-      </li>
+      </li> */}
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com/lordarcadius">
+      <SocialIcons href="https://github.com/ggalmeida1">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/lordarcadius/">
+      <SocialIcons href="https://www.linkedin.com/in/ggalmeida/">
         <AiFillLinkedin size="3rem" />
-      </SocialIcons>
-      <SocialIcons href="https://www.instagram.com/lordarcadius">
-        <AiFillInstagram size="3rem" />
-      </SocialIcons>
-      <SocialIcons href="https://www.twitter.com/lordarcadius">
-        <AiFillTwitterCircle size="3rem" />
       </SocialIcons>
     </Div3>
   </Container>

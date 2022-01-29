@@ -28,8 +28,8 @@ const Projects = () => (
               </TagList>
             </div>
             <UtilityList>
-              <ExternalLinks href={p.visit}>Live Preview</ExternalLinks>
-              <ExternalLinks href={p.source}>Source Code</ExternalLinks>
+              <ExternalLinks href={p.visit}>More info</ExternalLinks>
+              <ExternalLinks href={p.source}>Check it Live</ExternalLinks>
             </UtilityList>
           </BlogCard>
         );
