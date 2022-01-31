@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
+    "postbuild": "next-sitemap",
     "start": "next start"
   },
   "dependencies": {
@@ -17,6 +18,7 @@
     "styled-normalize": "^8.0.7"
   },
   "devDependencies": {
-    "next-optimized-images": "^2.6.2"
+    "next-optimized-images": "^2.6.2",
+    "next-sitemap": "^2.1.6"
   }
 }
