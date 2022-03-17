@@ -8,7 +8,8 @@ const Technologies = () => (
     <SectionDivider divider />
     <SectionTitle>Skills</SectionTitle>
     <SectionText>
-      I've worked with multiple technologies as a developer to develop & maintain my projects.
+      I've worked with multiple technologies. At the end, technology is just a way to achieve a purpose. 
+      I'm aware of it and try to solve problems.
     </SectionText>
     <List>
       {Skills.map((Skill) => (

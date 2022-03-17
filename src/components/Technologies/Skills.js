@@ -1,5 +1,4 @@
-import { DiReact, DiTerminal, DiDrupal, DiPhp } from "react-icons/di";
-import { SiFirebase, SiGit } from "react-icons/si";
+import { DiReact, DiTerminal, DiDrupal, DiLaravel, DiAws, DiMysql } from "react-icons/di";
 
 
 export const Skills = [
@@ -13,13 +12,13 @@ export const Skills = [
     slug: "drupal",
     Component: DiDrupal,
     title: "Drupal",
-    Description: () => <>Currently working with Drupal9.</>,
+    Description: () => <>I have worked contributing with Drupal's open source community.</>,
   },
   {
-    slug: "php",
-    Component: DiPhp,
-    title: "PHP",
-    Description: () => <>I can code in PHP 7+. I have developed and maintained some platforms using it.</>,
+    slug: "laravel",
+    Component: DiLaravel,
+    title: "Laravel",
+    Description: () => <>I can code in PHP 7+. I have developed and maintained platforms using it purely and working with Laravel.</>,
   },
   {
     slug: "terminal",
@@ -28,15 +27,15 @@ export const Skills = [
     Description: () => <>I have written dozens of Shell scripts for various purposes including CI/CD and automations.</>,
   },
   {
-    slug: "firebase",
-    Component: SiFirebase,
-    title: "Firebase",
-    Description: () => <>I have used Firebase for auth & database in my apps.</>,
+    slug: "mysql",
+    Component: DiMysql,
+    title: "MySQL",
+    Description: () => <>I have used MySQL as DBMS in almost every project in my career.</>,
   },
   {
-    slug: "git",
-    Component: SiGit,
-    title: "Git",
-    Description: () => <>Git is a tool that I use every day. I use GitHub or Bitbucket for pushing my code.</>,
+    slug: "aws",
+    Component: DiAws,
+    title: "AWS",
+    Description: () => <>I am well versed with AWS services and have deployed production ready apps in to it.</>,
   },
 ];
