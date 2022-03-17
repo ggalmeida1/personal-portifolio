@@ -12,7 +12,7 @@ export const projects = [
   {
     title: 'Financial and Customer Management System',
     description: "In this freelance job, I created an website and a system for a legal agency to register and manage its clients, schedule tasks and manage a system for collecting delinquent clients. This tool was used as an internal system to improve the company's processes.",
-    image: '/images/abs.jpg',
+    image: '/images/ids.jpg',
     tags: ['Laravel', 'CSS', 'MySQL', 'HTML'],
     source: 'https://github.com/ggalmeida1/ids-solucoes',
     visit: 'https://idssolucoes.com.br/',
