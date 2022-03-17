@@ -22,6 +22,7 @@ const Footer = () => {
       <SocialIconsContainer>
         <CompanyContainer>
           <Slogan>&copy; 2021 <Link href="https://www.almeidadeveloper.com">  Almeida Dev</Link> . All rights reserved.</Slogan>
+          <Slogan> Do you want to see the code for this website? <a href="https://https://github.com/ggalmeida1/personal-portifolio">Check it here.</a></Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/ggalmeida1">
