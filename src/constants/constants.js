@@ -26,7 +26,8 @@ export const TimeLineData = [
   { year: 2008, text: 'Left my job to engage in a full time voluntary experience.', },
   { year: 2010, text: 'Restarted my journey as an Infrastructure Trainee', },
   { year: 2018, text: 'Big Career Change: Left an ascending career as Senior Delivery Specialist to become a Developer.', },
-  { year: 2019, text: 'Started my career as a Full Stack Developer in a small start-up', },
-  { year: 2021, text: 'Got hired by CI&T to work as a Back End Drupal Developer', },
+  { year: 2019, text: 'Started my career as a Full Stack Developer in a start-up I founded', },
+  { year: 2021, text: 'Got hired by CI&T to work as a Back End Drupal Developer.', },
   { year: 2022, text: 'Got promoted to work as a Full Stack Developer', },
+  { year: 2022, text: 'Accepted an offer to work as a Back End Engineer (Node) for iBlue Consulting', },
 ];
