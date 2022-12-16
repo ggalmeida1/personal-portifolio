@@ -18,7 +18,7 @@ export const Skills = [
   {
     slug: "nodejs",
     Component: DiNodejsSmall,
-    title: "Node.js",
+    title: "NodeJS",
     Description: () => <>I can code in NodeJS. I have developed and maintained Apps using it purely and working with Typescript.</>,
   },
   {
