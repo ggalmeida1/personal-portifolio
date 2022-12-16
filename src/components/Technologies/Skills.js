@@ -1,4 +1,4 @@
-import { DiReact, DiTerminal, DiDrupal, DiLaravel, DiAws, DiMysql } from "react-icons/di";
+import { DiReact, DiTerminal, DiDrupal, DiNodejsSmall, DiAws, DiMysql } from "react-icons/di";
 
 
 export const Skills = [
@@ -15,10 +15,10 @@ export const Skills = [
     Description: () => <>I have worked contributing with Drupal's open source community.</>,
   },
   {
-    slug: "laravel",
-    Component: DiLaravel,
-    title: "Laravel",
-    Description: () => <>I can code in PHP 7+. I have developed and maintained platforms using it purely and working with Laravel.</>,
+    slug: "nodejs",
+    Component: DiNodejsSmall,
+    title: "Node.js",
+    Description: () => <>I can code in NodeJS. I have developed and maintained Apps using it purely and working with Typescript.</>,
   },
   {
     slug: "terminal",
