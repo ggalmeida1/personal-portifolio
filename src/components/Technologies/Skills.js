@@ -1,4 +1,4 @@
-import { DiReact, DiTerminal, TbBrandNextjs, DiNodejsSmall, DiAws, DiMysql } from "react-icons/di";
+import { DiReact, DiTerminal, TbBrandNextjs, DiNodejsSmall, DiAws, DiMysql } from "react-icons";
 
 
 export const Skills = [
