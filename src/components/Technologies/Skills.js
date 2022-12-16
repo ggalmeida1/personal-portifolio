@@ -1,4 +1,4 @@
-import { DiReact, DiTerminal, DiDrupal, DiNodejsSmall, DiAws, DiMysql } from "react-icons/di";
+import { DiReact, DiTerminal, TbBrandNextjs, DiNodejsSmall, DiAws, DiMysql } from "react-icons/di";
 
 
 export const Skills = [
@@ -9,10 +9,10 @@ export const Skills = [
     Description: () => <>I have developed and maintained WebApps using React.</>,
   },
   {
-    slug: "drupal",
-    Component: DiDrupal,
-    title: "Drupal",
-    Description: () => <>I have worked contributing with Drupal's open source community.</>,
+    slug: "nextjs",
+    Component: TbBrandNextjs,
+    title: "NextJS",
+    Description: () => <>I have worked in Websites and SPA's using NextJS.</>,
   },
   {
     slug: "nodejs",
